@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/carlos-eduardo-9908/)
 [![Instagram](https://img.shields.io/badge/-Instagram-red)](https://www.instagram.com/carloseduardoff12/)
 ---
-Meu nome é Carlos Eduardo, tenho 19 anos e sou bastante interessado pela área de desenvolvimento Front-end, geralmente uso HTML, CSS e Javascript para desenvolver meus projetos, mas sempre estou de olho em bibliotecas e frameworks em volta desse ecossistema, como por exemplo o React e o Angular. Estou cursando técnico em informática no IFRN
+Meu nome é Carlos Eduardo, tenho 19 anos e sou bastante interessado pela área de desenvolvimento Front-end, geralmente uso HTML, CSS e Javascript para desenvolver meus projetos, mas sempre estou de olho em bibliotecas e frameworks em volta desse ecossistema, como por exemplo o React e o Angular. Estou cursando técnico em informática no IFRN, onde conheci vários fundamentos da lógica de programação.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carloseduardofdelima&theme=dracula" />
